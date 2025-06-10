@@ -11,5 +11,4 @@ Users can:
 ✅ iOS  
 ✅ Android
 
-📹 [Demo Video (Google Drive)]([https://drive.google.com/file/d/VIDEO_ID/view](https://drive.google.com/file/d/13w8G-BzhnZn6PkUHKRultJ11pARzuUIk/view?usp=sharing))
-
+📹 [Demo Video (Google Drive)](https://drive.google.com/file/d/13w8G-BzhnZn6PkUHKRultJ11pARzuUIk/view?usp=sharing)
